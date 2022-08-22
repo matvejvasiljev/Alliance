@@ -103,7 +103,7 @@
     border-radius: 20px;
     width: 500px;
     margin-right: 25px;
-    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.7);
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.25);
 }
 
 .slider-container__slide0 {
@@ -151,7 +151,7 @@
 
 .slider-container__buttons {
     align-self: center;
-    transform: translate(10%, -110%);
+    transform: translate(-6%, -125%);
 }
 
 .slider-container__button {
